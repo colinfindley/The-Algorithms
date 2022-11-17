@@ -1,1 +1,0 @@
- RSonarAnalyzer:TheAlgorithms
